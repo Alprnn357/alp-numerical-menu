@@ -1,5 +1,5 @@
 # Alp Numerical Menu for CS16Client/Xash3D Android
-The Alp's customizable numerical menu
+The Alp's customizable numerical menu.
 Yes, that's right. This is just a simple numerical menu but not too simple!
 # Features
 - Client menu style
@@ -27,5 +27,3 @@ Note*: The config file needed to configure these which is given in the releases 
 Video preview: [Soon...]()
 
 Download: [Releases](https://github.com/Alprnn357/alp-numerical-menu/releases)
-
-Licensed with Apache License 2.0
