@@ -7,6 +7,7 @@ Yes, that's right. This is just a simple numerical menu but not too simple!
 - Custom color support*
 - Fade animation*
 - Transparent buttons*
+- Open source! You're free to view/edit/fork/publish it anytime but please don't avoid giving credit for me.
 
 Note*: The config file needed to configure these which is given in the releases tab.
 # Installation
@@ -27,3 +28,4 @@ Video preview: [Soon...]()
 
 Download: [Releases](https://github.com/Alprnn357/alp-numerical-menu/releases)
 
+Licensed with Apache License 2.0
