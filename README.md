@@ -24,6 +24,6 @@ Note*: The config file needed to configure these which is given in the releases 
 - Try to create a new folder named "custom" in the same folder then move the .pak file into it (This method is recommended)
 - Still same? Maybe you should check the path (which configs, game saves, etc. are stored) in the Xash3D App.
 # Links
-Video preview: [Soon...]()
+Video preview: [YouTube](https://youtu.be/z_8vDvl_Usw)
 
 Download: [Releases](https://github.com/Alprnn357/alp-numerical-menu/releases)
